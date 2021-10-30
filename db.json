@@ -1,0 +1,26 @@
+    [
+     {
+        "id": "001",
+        "name": "Credo",
+        "category": "men",
+        "cost": 2890,
+        "fstPhoto": "credo.png",
+        "sndPhoto": "credo1.png"
+    },
+    {
+        "id": "002",
+        "name": "Credo",
+        "category": "kids",
+        "cost": 2890,
+        "fstPhoto": "credo.png",
+        "sndPhoto": "credo1.png"
+    },
+    {
+        "id": "003",
+        "name": "Credo",
+        "category": "men",
+        "cost": 2890,
+        "fstPhoto": "credo.png",
+        "sndPhoto": "credo1.png"
+    }
+    ]
